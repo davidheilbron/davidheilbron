@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davidheilbron
-- 👀 I’m interested in EData Science projects with a focus on economics
+- 👀 I’m interested in Data Science projects with a focus on economics
 - 🌱 I’m currently learning: Data Science at the University of Milan
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Statistical Learning, Machine Learning, Econometrics and Time Series projects
 - 📫 How to reach me: david.heilbron@hotmail.com
 
 <!---
